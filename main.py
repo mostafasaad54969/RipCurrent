@@ -1,7 +1,7 @@
 import helper_functions as hf
 
 
-classes = ["rip_current"]
+classes = ['rip-seg']
 DatasetPath = '/kaggle/working/RipCurrent/training_data/images'
 DestPath = '/kaggle/working/RipCurrent/10fold'
 AnnotationsPath = '/kaggle/working/RipCurrent/training_data/labels'
