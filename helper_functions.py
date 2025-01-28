@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw
 import os
 import PIL
 import numpy as np
-# from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold
 import time
 import cv2
 import glob
